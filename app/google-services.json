@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "941124066595",
+    "firebase_url": "https://csok-1054d.firebaseio.com",
+    "project_id": "csok-1054d",
+    "storage_bucket": "csok-1054d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941124066595:android:48c31d1dffcac17b",
+        "android_client_info": {
+          "package_name": "com.sawepeter.csok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941124066595-6qrf7vgrnlgjjvqtdp7k936qq2jr5ufj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sawepeter.csok",
+            "certificate_hash": "8d7c8159842d4f6dfa6e83e67aa4405b1e397999"
+          }
+        },
+        {
+          "client_id": "941124066595-hl4gr7lj04d27qagehcsegnls3a75ke2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdJCzaM-5-6_2PwWvhDhg9eEiZkys5iNU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941124066595-hl4gr7lj04d27qagehcsegnls3a75ke2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
